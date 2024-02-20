@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(23, 24, 27);
+    color: aliceblue;
+}
+
+h1 {
+    font-family: Garamond, serif;
+    font-weight: 800;
+    color: brown;
+    background-color: yellowgreen;
+    text-align: center;
+    font-size: 80px;
+}    
+
+a {
+    color: rgb(138, 255, 127);
+}
+
+a:visited {
+    color:chocolate;
+}
